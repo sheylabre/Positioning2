@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.div1 {
+    background: #ED462F;
+    width: 300px;
+    height: 300px;
+    position: static;
+    top: 30px;
+    left: 20px;
+}
+
+.div2 {
+    background: #752E80;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 70px;
+    bottom: -70px
+}
+
+.div3 {
+    background: #FFF835;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 0px;
+    z-index
+}
